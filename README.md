@@ -1,4 +1,4 @@
-Algorithmic Toolbox Coursera Solutions (2019)
+# Algorithmic Toolbox Coursera Solutions (2019)
 
 This repository provides solutions to the _Algorithmic Toolbox_ Course Offered by Coursera
 
